@@ -1,0 +1,126 @@
+
+1 - ABEJORRAL - pink
+2 - ABRIAQUI - pink
+3 - ALEJANDRIA - pink
+4 - AMAGA - pink
+5 - AMALFI - pink
+6 - ANDES - pink
+7 - ANGELOPOLIS - blue
+8 - ANGOSTURA - pink
+9 - ANORI - blue
+10 - ANZA - pink
+11 - APARTADO - pink
+12 - ARBOLETES - pink
+13 - ARGELIA - pink
+14 - ARMENIA - green
+15 - BARBOSA - pink
+16 - BELLO - pink
+17 - BELMIRA - pink
+18 - BETANIA - blue
+19 - BETULIA - blue
+20 - BRICEÑO - pink
+21 - BURITICA - pink
+22 - CACERES - pink
+23 - CAIDEDO - blue
+24 - CALDAS - green
+25 - CAMPAMENTO - green
+26 - CAÑASGORDAS - blue
+27 - CARACOLI - pink
+28 - CARAMANTA - pink
+29 - CAREPA - blue
+30 - CAROLINA - blue
+31 - CAUCASIA - blue
+32 - CHIGORODO - pink
+33 - CISNEROS - pink
+34 - CIUDAD BOLIVAR - pink
+35 - COCORNA - pink
+36 - COCEPCION - blue
+37 - CONCORDIA - pink
+38 - COPACABANA - blue
+39 - DABEIBA - pink
+40 - DON MATIAS - green
+41 - EBEJICO - blue
+42 - EL BAGRE - pink
+43 - EL CARMEN DE VIBORAL - blue
+44 - EL SANTURIO - green
+45 - ENTRERRIOS - blue
+46 - ENVIGADO - pink
+47 - FREDONIA - blue
+48 - FORNTINO - green
+49 - GIRALDO - green
+50 - GIRARDOTA - red
+51 - GOMEZ PLATA - red
+52 - GRNANADA - blue
+53 - GUADALUPE - orange
+54 - GUARNE - green
+55 - GUATAPE - green
+56 - HELICONIA - pink
+57 - HISPANIA - green
+58 - ITAGUI - blue
+59 - ITUANGO - blue
+60 - JARDIN - blue
+61 - JERICO - green
+62 - LA CEJA - green
+63 - LA ESTRELLA - pink
+64 - LA PINTADA - pink
+65 - LA UNION - red
+66 - LIBORNA - blue
+67 - MACEO - blue
+68 - MARINILLA - pink
+69 - MEDELLIN - red
+70 - MONTEBELLO - blue
+71 - MURINDO - blue
+72 - MUTATA - green
+73 - NARIÑO - blue
+74 - NECHI - green
+75 - NECOCLI - blue
+76 - OLAYA - green
+77 - PEÑOL - red
+78 - PEQUE - green
+79 - PUEBLORRICO - blue
+80 - PUERTO BERRIO - green
+81 - PUERTO NARE - blue
+82 - PUERTO TRIUNFO - green
+83 - REMEDIOS - blue
+84 - RETIRO - red
+85 - RIONEGRO - orange
+86 - SABANALARGA - red
+87 - SABANETA - red
+88 - SALGAR - green
+89 - SAN ANDRES DE CUERQUIA - green
+90 - SAN CARLOS - red
+91 - SAN FRANCISCO - blue
+92 - SAN JERONIMO - green
+93 - SAN JOSE DE LA MONTAÑA - red
+94 - SAN JUAN DE URABA - green
+95 - SAN LUIS - orange
+96 - SAN PEDRO DE LOS MILAGROS - orange
+97 - SAN PEDRO DE URABA - green
+98 - SAN RAFAEL - orange
+99 - SAN ROQUE - green
+100 - SAN VICENTE FERRER - yellow
+101 - SANTA BARBARA - red
+102 - SANTA FE DE ANTIOQUIA - red
+103 - SANTA ROSA DE OSOS - orange
+104 - SANTO DOMINGO - red
+105 - SEGOVIA - green
+106 - SONSON - red
+107 - SOPETRAN - orange
+108 - TAMESIS - red
+109 - TARAZA - green
+110 - TARSO - pink
+111 - TITIRIBI - red
+112 - TOLEDO - orange
+113 - TURBO - red
+114 - URAMITA - red
+115 - URRAO - red
+116 - VALDIVIA - red
+117 - VALPARAISO - green
+118 - VEGACHI - green
+119 - VENECIA - orange
+120 - VIGIA DEL FUERTE - pink
+121 - YALI - pink
+122 - YARUMAL - yellow
+123 - YOLOMBO - yellow
+124 - YONDO - pink
+125 - ZARAGOZA - red
